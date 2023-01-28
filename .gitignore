@@ -1,0 +1,4 @@
+nxt-remote-web/dev/*
+nxt-remote-web/dist/*
+nxt-remote-web/node_modules/*
+nxt-remote-web/output/*
